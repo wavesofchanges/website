@@ -1,8 +1,8 @@
 {
-  "name": "ong_cet_bulgaria_website",
+  "name": "paul9189.github.io",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://paul9189.github.io/paul9189.github.io",
+  "homepage": "https://paul9189.github.io",
   "type": "module",
   "scripts": {
     "dev": "vite",
