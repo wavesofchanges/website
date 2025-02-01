@@ -2,15 +2,15 @@
   "name": "ong_cet_bulgaria_website",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://paul9189.github.io",
+  "homepage": "https://paul9189.github.io/paul9189.github.io",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d dist"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",
